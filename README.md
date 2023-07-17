@@ -1,2 +1,4 @@
 # DualGeodesicIsohedronGenerator
-A script for a static class that can be used to produce duals of geodesic isohedrons in Unity game engine.
+This repository contains the following:
+- A fully documented script for producing duals of geodesic isohedrons in Unity.
+- A collection of assets representing polyhedral meshes created using this script.
